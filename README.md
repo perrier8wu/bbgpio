@@ -1,1 +1,1 @@
-# bbgpio\nGPIO control utility for BeagleBone Black
+# bbgpio GPIO control utility for BeagleBone Black
