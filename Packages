@@ -1,0 +1,24 @@
+Package: bbgpio
+Version: 1.0.0
+Architecture: armhf
+Maintainer: Your Name <your.email@example.com>
+Installed-Size: 120
+Depends: libc6
+Filename: ./bbgpio_1.0.0_armhf.deb
+Size: 20216
+MD5sum: 4d913b997fe1a9b10151706d84e8e4c7
+SHA1: a2152f13d518d4b3b7614c814e90c1670c58db97
+SHA256: 1b3993975983d0c05cd8f4b767700ea8bb39c5a376c6ecd2eeb87b6a1a12f35f
+Section: utils
+Priority: optional
+Description: GPIO control utility for BeagleBone Black
+ A command-line GPIO control utility for BeagleBone Black that supports
+ chaining commands, multiple output modes, and comprehensive pin mapping.
+ .
+ Features:
+  - Support for all P8 and P9 GPIO pins
+  - Command chaining with delays
+  - Multiple output modes (verbose, report, quiet)
+  - Pull-up/pull-down resistor control
+  - Simple and intuitive command syntax
+
