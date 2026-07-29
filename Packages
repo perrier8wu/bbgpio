@@ -1,14 +1,14 @@
 Package: bbgpio
-Version: 1.0.10
+Version: 1.0.11
 Architecture: armhf
 Maintainer: Your Name <your.email@example.com>
 Installed-Size: 124
 Depends: libc6
-Filename: ./bbgpio_1.0.10_armhf.deb
-Size: 22928
-MD5sum: 8155d3681db4f14da49813ce351002bd
-SHA1: 2840286914a2d7eb9f42ed3efa92c7c9cfbe495f
-SHA256: d85b8943ed9153ae31e065056fbffe94e7d7468ffdb254711937bf4d29dc9ecf
+Filename: ./bbgpio_1.0.11_armhf.deb
+Size: 23428
+MD5sum: ac293375941b7e579bb5504919d74cdf
+SHA1: be6009af5d343bcb4c545dd29fd0579453afc97a
+SHA256: 7840d7ab00e535ace9cd635c5caac695a77c60917d750fc41f83b567c2280c4e
 Section: utils
 Priority: optional
 Description: GPIO control utility for BeagleBone Black
