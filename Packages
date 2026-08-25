@@ -1,14 +1,14 @@
 Package: bbgpio
-Version: 1.0.13
+Version: 1.0.14
 Architecture: armhf
 Maintainer: Your Name <your.email@example.com>
 Installed-Size: 128
 Depends: libc6
-Filename: ./bbgpio_1.0.13_armhf.deb
-Size: 24692
-MD5sum: e3183bad1f25e5b14b0e63b8df2a6b41
-SHA1: 47d8e37b542401338ca8d5f3d5bfde365c0e1a9c
-SHA256: 0544122be6656fff76213b1be650b1c737aa8a9afe9b5a405e3d85cd7a909b22
+Filename: ./bbgpio_1.0.14_armhf.deb
+Size: 25212
+MD5sum: 85645a6191b1395e2d9f5771c4416070
+SHA1: 88684d294f70dccc19a04cccacfc920aa90f2d98
+SHA256: 509f610268b6169a776a1916917e09cb552b7cc7a5335572becebb9c49350370
 Section: utils
 Priority: optional
 Description: GPIO control utility for BeagleBone Black
@@ -20,5 +20,6 @@ Description: GPIO control utility for BeagleBone Black
   - Command chaining with delays
   - Multiple output modes (verbose, report, quiet)
   - Pull-up/pull-down resistor control
+  - Auto-applies .gpio mode when lo/hi/in are used
   - Simple and intuitive command syntax
 
